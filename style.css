@@ -1,0 +1,85 @@
+body {
+    background-color: black;
+}
+
+div {
+    position  : inherit;
+    background: black;
+    margin    : auto;
+    width     : 400px;
+    height    : 600px;
+    border: 2px solid balck;
+}
+
+.data h1 {
+    color    : #ffffff;
+    margin   : auto 110px;
+    font-size: 40px;
+}
+
+.data ul a li img {
+    width      : 50px;
+    height     : 50px;
+    margin-left: 130px;
+}
+
+.wa {
+    border          : 1px solid green;
+    margin-top      : 50px;
+    border-radius   : 10px;
+    margin-left     : 10px;
+    width           : 300px;
+    background-color: #ffffff;
+    display         : flex;
+    background-color: black;
+}
+
+.wa:hover {
+    border          : 3px solid #117411;
+    border-radius   : 10px;
+    margin-left     : 10px;
+    width           : 300px;
+    background-color: #ffffff;
+    display         : flex;
+    background-color: #117411;
+}
+
+.ig {
+    border          : 1px solid #4c8af5;
+    border-radius   : 10px;
+    margin-left     : 10px;
+    width           : 300px;
+    background-color: #ffffff;
+    display         : flex;
+    background-color: black;
+}
+
+.ig:hover {
+    border          : 3px solid #4c8af5;
+    border-radius   : 10px;
+    margin-left     : 10px;
+    width           : 300px;
+    background-color: #ffffff;
+    display         : flex;
+    background-color: #4c8af5;
+}
+
+.tp {
+    border          : 1px solid #2dda4a;
+    border-radius   : 10px;
+    margin-left     : 10px;
+    width           : 300px;
+    background-color: #ffffff;
+    display         : flex;
+    background-color: black;
+}
+
+.tp:hover {
+    border          : 3px solid #5ee64d;
+    border-radius   : 10px;
+    margin-left     : 10px;
+    width           : 300px;
+    background-color: #ffffff;
+    display         : flex;
+    background-color: #5ee64d;
+}
