@@ -8,13 +8,14 @@ div {
     margin    : auto;
     width     : 400px;
     height    : 600px;
-    border: 2px solid balck;
+    border    : 2px solid balck;
 }
 
 .data h1 {
+    position : relative;
     color    : #ffffff;
-    margin   : auto 110px;
-    font-size: 40px;
+    margin   : auto 120px;
+    font-size: 35px;
 }
 
 .data ul a li img {
